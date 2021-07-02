@@ -36,5 +36,6 @@ Feature necessary -
 
 👉 Extra features related to k8s (Optional)
 
-# DEMO: https://www.linkedin.com/posts/kriti-dubey_worldrecordholder-training-internship-activity-6816800573828997120-416h
+# DEMO: 
+https://www.linkedin.com/posts/kriti-dubey_worldrecordholder-training-internship-activity-6816800573828997120-416h
 
